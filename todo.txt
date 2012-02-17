@@ -1,0 +1,13 @@
+connect country and currency:
+  select currency.id, currency.text, country.id, country.name from currency full outer join country on country.id = substr(currency.id,1,2);
+
+http://en.wikipedia.org/wiki/Open_data_portals
+
+  o http://data.worldbank.org/
+  o http://stats.oecd.org/Index.aspx
+  o http://data.un.org/
+  o http://www.beta.undp.org/content/undp/en/home/operations/transparency/overview.html
+
+
+On Nov 15, 2011, open exchange rates also published 
+the five currencies XAG, XAU, XCP, XPD, XPT
