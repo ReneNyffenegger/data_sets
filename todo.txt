@@ -11,3 +11,5 @@ http://en.wikipedia.org/wiki/Open_data_portals
 
 On Nov 15, 2011, open exchange rates also published 
 the five currencies XAG, XAU, XCP, XPD, XPT
+
+http://theinfo.org/get/data
